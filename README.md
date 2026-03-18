@@ -1,3 +1,9 @@
+## Autor
+
+Projeto desenvolvido por **Thiago Henrique**  
+Analista de Infraestrutura | Automação | Python
+Projeto voltado para automação de gestão de férias com integração AD e Microsoft 365.
+
 # Software de Gestão de Férias
 
 Aplicação desenvolvida em Python para automação do bloqueio e desbloqueio de colaboradores em período de férias, com integração ao **Active Directory (AD)** e ao **Microsoft 365**.
@@ -457,3 +463,10 @@ Projeto voltado para automação corporativa de gestão de férias, com integra�
 ## Licença
 
 Definir conforme a política de uso da empresa ou do autor do projeto.
+
+
+## Autor
+
+Projeto desenvolvido por **Thiago Henrique**  
+Analista de Infraestrutura | Automação | Python
+Projeto voltado para automação de gestão de férias com integração AD e Microsoft 365.
