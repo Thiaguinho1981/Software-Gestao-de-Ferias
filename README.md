@@ -470,3 +470,14 @@ Definir conforme a política de uso da empresa ou do autor do projeto.
 Projeto desenvolvido por **Thiago Henrique**  
 Analista de Infraestrutura | Automação | Python
 Projeto voltado para automação de gestão de férias com integração AD e Microsoft 365.
+## Script utilitário: métricas de disco cciss/RAID
+
+Foi adicionado o script `scripts/disk_metrics_refatorado.sh` para coleta de métricas SMART e status RAID com validações e códigos de erro mais claros.
+
+Uso:
+
+```bash
+./scripts/disk_metrics_refatorado.sh <DEV> <ID> <METRIC>
+```
+
+Métricas aceitas: `health`, `temp`, `defects`, `reallocated`, `pending`, `uncorrect`, `poweron`, `wear`, `status`.
